@@ -174,7 +174,7 @@ python main.py --mode train --dataset CelebA --image_size 64 --c_dim 5 --sample_
 
 Jittor在jupyter notebook上运行：
 
-![image-20250805170949963](img\image-20250805170949963.png)
+![image-20250805170949963](img/image-20250805170949963.png)
 
 
 
@@ -186,11 +186,11 @@ Jittor在jupyter notebook上运行：
 
 **Pytorch：**
 
-![image-20250805171502774](img\image-20250805171502774.png)
+![image-20250805171502774](img/image-20250805171502774.png)
 
 **Jittor**
 
-![image-20250805172111688](img\image-20250805172111688.png)
+![image-20250805172111688](img/image-20250805172111688.png)
 
 ## 训练日志片段（Jittor）
 
@@ -218,6 +218,7 @@ Iter [1000/5000], D/loss_real: 0.3824, D/loss_fake: 0.4509, G/loss_adv: 1.0913, 
 
 - [StarGAN (original)](https://github.com/yunjey/stargan)
 - [Jittor 官方文档](https://cg.cs.tsinghua.edu.cn/jittor/)
+
 
 
 
